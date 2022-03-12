@@ -11,3 +11,4 @@ package-lock.json
 .vscode/
 
 /unidade-02-api-com-nodejs/node_modules/
+/unidade-02-todo-list/node_modules/
